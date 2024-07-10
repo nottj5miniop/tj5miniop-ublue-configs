@@ -1,8 +1,8 @@
 # tj5miniop-ublue-configs &nbsp; [![build-ublue](https://github.com/seabreezeos/tj5miniop-ublue-configs/actions/workflows/build.yml/badge.svg)](https://github.com/seabreezeos/tj5miniop-ublue-configs/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+These are my universal blue configs, based on bazzite's nvidia image
 
-After setup, it is recommended you update this README to describe your custom image.
+It's hosted on this account as my main (github.com/tj5miniop) is having issues with repo sizes
 
 ## Installation
 
